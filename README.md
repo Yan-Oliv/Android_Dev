@@ -1,19 +1,22 @@
-# Hello World
+# Namer App — primeiros passos com Flutter
 
-A new Flutter project created with FlutLab - https://flutlab.io
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Estudo](https://img.shields.io/badge/Estudo-6b7280?style=flat-square)
 
-## Getting Started
+App de estudo baseado no codelab oficial do Flutter: gera pares de palavras aleatórias, permite favoritar e navegar entre telas.
 
-A few resources to get you started if this is your first Flutter project:
+## O que foi praticado
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+- Widgets e layout com **Material 3**
+- Gerenciamento de estado com **Provider** (`ChangeNotifier`)
+- Pacote `english_words`
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como executar
 
-## Getting Started: FlutLab - Flutter Online IDE
+```bash
+flutter pub get
+flutter run
+```
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+---
+
+<sub>Desenvolvido por <a href="https://github.com/Yan-Oliv">Yan Monteiro</a> · <a href="https://www.linkedin.com/in/yan-de-oliveira-gon%C3%A7alves-monteiro-a2886619a/">LinkedIn</a> · <a href="https://github.com/OmnyaTech">OmnyaTech</a></sub>
